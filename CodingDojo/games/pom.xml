@@ -79,9 +79,6 @@
         <module>tetris</module>
         <module>sokoban</module>
         <module>lemonade</module>
-        <module>excitebike</module>
-        <module>selfdefense</module>
-        <module>japanese</module>
     </modules>
 
     <profiles>
