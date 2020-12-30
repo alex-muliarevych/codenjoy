@@ -69,8 +69,8 @@ database:
   password: ''
 
 admin:
-  login: admin@codenjoyme.com
-  password: admin
+  login: mvadmin
+  password: 1q2w3e@
 
 log.debug: false
 app:
